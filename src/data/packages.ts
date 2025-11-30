@@ -4,7 +4,7 @@ export const tourPackages: TourPackage[] = [
   {
     id: '1',
     title: 'Himachal Retreat',
-    image: 'https://images.pexels.com/photos/7740160/pexels-photo-7740160.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://s7ap1.scene7.com/is/image/incredibleindia/cityscape-of-shimla-himachal-pradesh-city-1-hero?qlt=82&ts=1742171983523',
     duration: '5N/6D',
     destinations: ['2N Shimla', '3N Manali'],
     nights: 5,
@@ -27,7 +27,7 @@ export const tourPackages: TourPackage[] = [
   {
     id: '2',
     title: 'Serene Shimla, Kullu & Manali',
-    image: 'https://images.pexels.com/photos/3225531/pexels-photo-3225531.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.unsplash.com/photo-1641735735134-763d2f9bedbb?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     duration: '6N/7D',
     destinations: ['2N Shimla', '1N Kullu', '3N Manali'],
     nights: 6,
@@ -50,7 +50,7 @@ export const tourPackages: TourPackage[] = [
   {
     id: '3',
     title: 'Best of Shimla',
-    image: 'https://images.pexels.com/photos/12347701/pexels-photo-12347701.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.unsplash.com/photo-1657894736581-ccc35d62d9e2?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     duration: '3N/4D',
     destinations: ['3N Shimla'],
     nights: 3,
@@ -73,7 +73,7 @@ export const tourPackages: TourPackage[] = [
   {
     id: '4',
     title: 'Himalayan Honeymoon Escape',
-    image: 'https://images.pexels.com/photos/1024960/pexels-photo-1024960.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.unsplash.com/photo-1482192596544-9eb780fc7f66?auto=format&fit=crop&w=1400&q=80',
     duration: '5N/6D',
     destinations: ['2N Shimla', '3N Manali'],
     nights: 5,
@@ -96,7 +96,7 @@ export const tourPackages: TourPackage[] = [
   {
     id: '5',
     title: 'Divine Shimla & Manali',
-    image: 'https://images.pexels.com/photos/3165335/pexels-photo-3165335.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.unsplash.com/photo-1586881141091-1014c7c2cb79?q=80&w=1736&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     duration: '4N/5D',
     destinations: ['2N Shimla', '2N Manali'],
     nights: 4,
@@ -118,7 +118,7 @@ export const tourPackages: TourPackage[] = [
   {
     id: '6',
     title: 'Shimla Splendor',
-    image: 'https://images.pexels.com/photos/3593922/pexels-photo-3593922.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://plus.unsplash.com/premium_photo-1697729628826-ca05ca7f5e8e?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     duration: '2N/3D',
     destinations: ['2N Shimla'],
     nights: 2,
